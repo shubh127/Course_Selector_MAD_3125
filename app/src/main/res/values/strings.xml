@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Course Selection</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="select_you_education_qualification">Select you education qualification</string>
+    <string name="graduated">Graduated</string>
+    <string name="ungraduated">UnGraduated</string>
+    <string name="select_desired_course_from_the_dropdown">Select desired course from the dropdown</string>
+    <string name="add_course">Add Course</string>
+    <string name="total_fee_default">Total Fees: $0</string>
+    <string name="total_duration_default">Total Duration: 0 hours</string>
+    <string name="accommodation">Accommodation</string>
+    <string name="medical_insurance">Medical Insurance</string>
+    <string name="already_added">Course is already added in the list</string>
+    <string name="duration_exceeded">The duration thresh hold limit exceeded.</string>
+    <string name="added_sucessfully">Course added Successfully</string>
+    <string name="show_selected_courses">Show Selected Courses</string>
+    <string name="exit_app">Exit App</string>
+    <string name="selected_courses">Selected Courses</string>
+</resources>
